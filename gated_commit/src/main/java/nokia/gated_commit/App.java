@@ -7,8 +7,8 @@ public class App
 		return a + b;
 	}
 	
-	public int multiplyNumbers(int a, int b) {
-		return a * b;
+	public int multiplyNumbers(int x, int y) {
+		return x * y;
 	}
 	
     public static void main( String[] args )
