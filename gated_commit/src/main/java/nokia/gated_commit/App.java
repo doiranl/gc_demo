@@ -7,11 +7,7 @@ public class App
 		return a + b;
 	}
 	
-	public int multiplyNumbers(int x, int y) {
-		return x * y;
-	}
-	
-    public static void main( String[] args )
+	public static void main( String[] args )
     {
     	App a = new App();
         System.out.println(a.addNumbers(6, 4));
